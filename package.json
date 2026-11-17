@@ -1,7 +1,9 @@
 {
-  "name": "mirsad-atmospheric-intelligence",
+  "name": "rasid-atmospheric-intelligence",
   "private": true,
   "version": "1.0.0",
+  "description": "RASID — atmospheric and lunar intelligence dashboard for observation-site assessment and crescent visibility planning.",
+  "author": "ENG Khaled Isamil",
   "type": "module",
   "scripts": {
     "dev": "vite",
